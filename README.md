@@ -1,2 +1,3 @@
 # hello-world
 First repository, for learning how GitHub works
+Up until now this is pretty cool...
